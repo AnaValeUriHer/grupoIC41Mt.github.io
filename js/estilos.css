@@ -1,0 +1,7 @@
+html {font-family: sans-serif; text-align: center}
+body {display: inline-block; text-align: left; width: 30%; margin: 3%;}
+#forma {text-align: justify; background: rgb(245, 226, 195);}
+label, legend {font-weight: bold}
+*:required, .obligatorio {border: thin solid blue}
+input[type=number], .numero {text-align: right}
+.error {color: red}
