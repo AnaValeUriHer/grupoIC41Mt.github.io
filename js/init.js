@@ -1,7 +1,7 @@
 /*  Initializa Firebase con la configuración del proyecto. Revisa la
  * configuración en tu servidor de Firebase.  */
 firebase.initializeApp({
-    apiKey: "AIzaSyCRLV2OxlIPJ21syWGwZcS2Am_EimSElW0",
+   apiKey: "AIzaSyCRLV2OxlIPJ21syWGwZcS2Am_EimSElW0",
     authDomain: "auten41m.firebaseapp.com",
     projectId: "auten41m",
     storageBucket: "auten41m.appspot.com",
